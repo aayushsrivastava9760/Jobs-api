@@ -1,6 +1,6 @@
 # Jobs API
 
-A Jobs API set up done using NodeJs and ExpressJs . The server is deployed to heroku and can be found live [HERE](https://jobs-api-by-aayush.herokuapp.com/api-docs/)
+A Jobs API set up done using NodeJs and ExpressJs . A backend server containing the API endpoints has been created can be found live [HERE](https://jobs-api-by-aayush.herokuapp.com/api-docs/) 
 
 
 #### Routers
